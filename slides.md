@@ -73,6 +73,8 @@ transition: slide-left
 - `if`, `else if`, `else`
 - `switch statement`
 - `ternary operator`
+- Challenge: how would you check if a number is even?
+
 
 <!--
 - use Github Desktop to share exercises, ask students to fork it, and create PR when done
@@ -166,6 +168,9 @@ transition: slide-left
 - arguments vs parameters
 - returning values
 - arrow functions
+- Challenge: Write a function that takes a number argument (i.e. student score) and returns a letter grade
+- Challenge: Write a function that takes a string argument and counts all vowels
+- Challenge: write a function that takes a weather condition as a string (i.e. 'rainy') and returns an appropriate message (i.e. 'Bring an umbrella')
 
 <!-- 
 - groups together sets of statements performing work (and sometimes returning a value)
