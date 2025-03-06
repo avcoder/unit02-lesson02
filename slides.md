@@ -208,6 +208,8 @@ const incorrectAnswers = [
 ];
 ```
 
+- AND/OR, each group member presents to their group one [array method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/at) we haven't covered yet in class 
+
 <!-- 
 -->
 
